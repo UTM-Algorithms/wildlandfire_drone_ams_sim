@@ -1,0 +1,9 @@
+---
+file location of LRZs, loc_lrz.txt
+file location of flybys, loc_flyby.txt
+---
+use same LRZ, 0
+use same geofence, 1
+number of flybys, 2
+---
+random seed, 12345
